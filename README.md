@@ -1,1 +1,1 @@
-# A-Very-Big-Sum22
+# A-Very-Big-Sum22 This code calculates the sum of a list of long integers using the `aVeryBigSum` function and returns the total as a `long`. It reads the input array from the console, computes the sum with `ar.Sum()`, and writes the result to the specified output file.
